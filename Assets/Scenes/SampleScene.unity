@@ -2549,7 +2549,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &715365658
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2839,9 +2839,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Layer1: {fileID: 667579026}
-  Layer2: {fileID: 1543926661}
+  Layer2: {fileID: 172488955}
   Layer3: {fileID: 2064835895}
-  Layer4: {fileID: 172488955}
+  Layer4: {fileID: 1543926661}
 --- !u!1 &828899663
 GameObject:
   m_ObjectHideFlags: 0
@@ -4125,9 +4125,9 @@ MonoBehaviour:
   NameSelectDialog: {fileID: 1735187699}
   BuyKidDialog: {fileID: 253371507}
   DebugRandomEvent: 0
-  DebugMainMenu: 0
+  DebugMainMenu: 1
   ProductionBuild: 0
-  PlayMusic: 0
+  PlayMusic: 1
   StartingCoins: 90
 --- !u!4 &1007415300
 Transform:
